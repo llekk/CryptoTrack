@@ -1,0 +1,9 @@
+{
+    "autoUpdate": false,
+    "candleMode": true,
+    "converterFrom": "bitcoin",
+    "converterTo": "ethereum",
+    "selectedCoinId": "cardano",
+    "selectedPeriod": "90д",
+    "showLevels": false
+}
