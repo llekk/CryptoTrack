@@ -1,0 +1,16 @@
+[
+    {
+        "aboveCondition": true,
+        "active": true,
+        "coinId": "bitcoin",
+        "coinSymbol": "BTC",
+        "targetPrice": 78000
+    },
+    {
+        "aboveCondition": false,
+        "active": true,
+        "coinId": "bitcoin",
+        "coinSymbol": "BTC",
+        "targetPrice": 10000
+    }
+]

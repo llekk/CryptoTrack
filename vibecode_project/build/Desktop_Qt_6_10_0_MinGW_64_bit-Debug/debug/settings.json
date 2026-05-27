@@ -1,0 +1,9 @@
+{
+    "autoUpdate": false,
+    "candleMode": false,
+    "converterFrom": "bitcoin",
+    "converterTo": "ethereum",
+    "selectedCoinId": "ripple",
+    "selectedPeriod": "30д",
+    "showLevels": true
+}
